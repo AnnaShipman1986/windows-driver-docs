@@ -31,6 +31,7 @@ To get a new code signing certificate:
     * [GlobalSign EV code signing certificate](https://go.microsoft.com/fwlink/p/?LinkId=620888)
     * [IdenTrust EV code signing certificate](https://www.identrust.com/digital-certificates/trustid-ev-code-signing)
     * [Sectigo (formerly Comodo) EV code signing certificate](https://sectigo.com/ssl-certificates-tls/code-signing)
+    * [SignMyCode EV code signing certificate](https://signmycode.com/ev-code-signing)
     * [SSL.com EV code signing certificate](https://www.ssl.com/certificates/ev-code-signing/)
 
 1. Once the certificate authority has verified your contact information and your certificate purchase is approved, follow their directions to retrieve the certificate.
